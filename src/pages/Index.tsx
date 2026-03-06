@@ -1,14 +1,12 @@
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import About from "@/components/About";
-import Gemstones from "@/components/Gemstones";
-import JewelleryCollection from "@/components/JewelleryCollection";
-import WhyChooseUs from "@/components/WhyChooseUs";
-import Reviews from "@/components/Reviews";
-import VisitStore from "@/components/VisitStore";
-import GallerySection from "@/components/GallerySection";
-import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
+import About from '@/components/About';
+import Contact from '@/components/Contact';
+import Footer from '@/components/Footer';
+import GallerySection from '@/components/GallerySection';
+import Hero from '@/components/Hero';
+import JewelleryCollection from '@/components/JewelleryCollection';
+import Navbar from '@/components/Navbar';
+import VisitStore from '@/components/VisitStore';
+import WhyChooseUs from '@/components/WhyChooseUs';
 
 const Index = () => (
   <>
@@ -16,10 +14,8 @@ const Index = () => (
     <main>
       <Hero />
       <About />
-      <Gemstones />
       <JewelleryCollection />
       <WhyChooseUs />
-      <Reviews />
       <VisitStore />
       <GallerySection />
       <Contact />
