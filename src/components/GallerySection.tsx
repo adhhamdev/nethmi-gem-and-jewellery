@@ -12,19 +12,39 @@ import bracelet from "@/assets/bracelet.jpg";
 import pendant from "@/assets/pendant.jpg";
 import customJewellery from "@/assets/custom-jewellery.jpg";
 import galleryHero from "@/assets/gallery-hero.jpg";
+import storeExterior from "@/assets/store-exterior.webp";
+import storeFront from "@/assets/store-front.webp";
+import gemstoneDisplay from "@/assets/gemstone-display.webp";
+import craftsmanNecklace from "@/assets/craftsman-necklace.webp";
+import gemstoneCollection from "@/assets/gemstone-collection.webp";
+import braceletsDisplay from "@/assets/bracelets-display.webp";
+import craftsmanWorkshop from "@/assets/craftsman-workshop.webp";
+import luckyStoneSign from "@/assets/lucky-stone-sign.webp";
+import jewelleryMachine from "@/assets/jewellery-machine.webp";
+import pendantsDisplay from "@/assets/pendants-display.webp";
 
 const images = [
   { src: galleryHero, alt: "Sri Lankan gemstone collection display" },
   { src: blueSapphire, alt: "Natural Ceylon blue sapphire" },
+  { src: storeExterior, alt: "Nethmi Gem & Jewellery store exterior in Aluthgama" },
   { src: ring, alt: "Gold ring with blue sapphire" },
+  { src: gemstoneDisplay, alt: "Gemstone display case with precious stones" },
   { src: necklace, alt: "Gold necklace with gemstones" },
+  { src: craftsmanNecklace, alt: "Master craftsman inspecting a handcrafted necklace" },
   { src: ruby, alt: "Natural Sri Lankan ruby" },
+  { src: braceletsDisplay, alt: "Handcrafted gemstone bracelets collection" },
   { src: bracelet, alt: "Gold bracelet with precious stones" },
+  { src: gemstoneCollection, alt: "Colorful semi-precious gemstone collection" },
   { src: yellowSapphire, alt: "Ceylon yellow sapphire" },
+  { src: craftsmanWorkshop, alt: "Jewellery craftsman at work in workshop" },
   { src: pendant, alt: "Sapphire pendant in gold setting" },
+  { src: pendantsDisplay, alt: "Gemstone pendants and jewellery display" },
   { src: whiteSapphire, alt: "Natural white sapphire" },
+  { src: storeFront, alt: "Nethmi Gem & Jewellery storefront" },
   { src: spinel, alt: "Pink spinel gemstone" },
+  { src: luckyStoneSign, alt: "Lucky birthstone chart at Nethmi Gem & Jewellery" },
   { src: customJewellery, alt: "Custom handcrafted jewellery" },
+  { src: jewelleryMachine, alt: "Traditional jewellery making equipment" },
   { src: semiPrecious, alt: "Semi-precious gemstone collection" },
 ];
 
