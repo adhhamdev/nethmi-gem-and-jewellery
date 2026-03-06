@@ -34,7 +34,7 @@ const Contact = () => (
             Call Now
           </a>
           <a
-            href="https://maps.google.com/?q=Aluthgama+Sri+Lanka+Nethmi+Gem"
+            href="https://maps.app.goo.gl/RRnB4FyYeboyZpnx7"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gold text-accent px-8 py-3 rounded text-sm font-medium hover:bg-accent/10 transition-colors flex items-center justify-center gap-2"
