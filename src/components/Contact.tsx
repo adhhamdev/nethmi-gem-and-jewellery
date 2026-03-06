@@ -1,4 +1,4 @@
-import { Phone, MapPin } from "lucide-react";
+import { Phone, MapPin, Mail } from "lucide-react";
 
 const Contact = () => (
   <section id="contact" className="section-padding bg-background">
@@ -14,6 +14,10 @@ const Contact = () => (
           <p className="text-foreground/70 flex items-center justify-center gap-3">
             <Phone className="w-5 h-5 text-accent" />
             <a href="tel:+94777546532" className="hover:text-accent transition-colors">077 754 6532</a>
+          </p>
+          <p className="text-foreground/70 flex items-center justify-center gap-3">
+            <Mail className="w-5 h-5 text-accent" />
+            <a href="mailto:lalithonline72@gmail.com" className="hover:text-accent transition-colors">lalithonline72@gmail.com</a>
           </p>
           <p className="text-foreground/70 flex items-center justify-center gap-3">
             <MapPin className="w-5 h-5 text-accent" />

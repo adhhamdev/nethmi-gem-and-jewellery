@@ -33,6 +33,7 @@ const Footer = () => (
           <div className="space-y-2 text-foreground/50 text-sm">
             <p>123 Welipenna Road, Aluthgama</p>
             <a href="tel:+94777546532" className="block hover:text-accent transition-colors">077 754 6532</a>
+            <a href="mailto:lalithonline72@gmail.com" className="block hover:text-accent transition-colors">lalithonline72@gmail.com</a>
             <p>Open daily: 8:30 AM – 9:00 PM</p>
           </div>
         </div>
