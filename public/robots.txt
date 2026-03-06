@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://nethmigems.com/sitemap.xml
+Sitemap: https://nethmi.netlify.app/sitemap.xml
