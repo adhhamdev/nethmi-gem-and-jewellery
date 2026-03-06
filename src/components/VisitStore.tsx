@@ -51,7 +51,7 @@ const VisitStore = () => (
               Call Now
             </a>
             <a
-              href="https://maps.google.com/?q=Aluthgama+Sri+Lanka+Nethmi+Gem"
+              href="https://maps.app.goo.gl/RRnB4FyYeboyZpnx7"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-gold text-accent px-6 py-3 rounded text-sm font-medium text-center hover:bg-accent/10 transition-colors flex items-center justify-center gap-2"
@@ -66,7 +66,7 @@ const VisitStore = () => (
         <div className="rounded overflow-hidden border border-border h-[400px] lg:h-auto">
           <iframe
             title="Nethmi Gem & Jewellery Location - Aluthgama, Sri Lanka"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.8!2d80.0!3d6.4!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjQnMDAuMCJOIDgwwrAwMCcwMC4wIkU!5e0!3m2!1sen!2slk!4v1"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.521260322283!2d80.05!3d6.43!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjUnNDguMCJOIDgwwrAwMycwMC4wIkU!5e0!3m2!1sen!2slk!4v1"
             width="100%"
             height="100%"
             style={{ border: 0, filter: "invert(90%) hue-rotate(180deg)" }}
